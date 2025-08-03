@@ -8,7 +8,8 @@ It helps users plan trips by suggesting destinations, itineraries, and budget-fr
 - Suggests tourist attractions and travel tips
 - Provides budget-optimized plans
 - Deployed as an AI service on IBM Cloud
-- Tested with API endpoint and Python script
+- Tested with API endpoint and Python script.
+- GitHub contains Standard Notebook (.ipynb) for reference and API usage
 
 ## Project Files
 - **/screenshots** – Agent build, preview, and deployment screenshots
@@ -26,3 +27,4 @@ It helps users plan trips by suggesting destinations, itineraries, and budget-fr
 ##  Author
 - Ritika Rajwar
 - Internship Project for IBM SkillsBuild
+
